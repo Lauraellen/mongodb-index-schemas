@@ -1,0 +1,47 @@
+[
+    {
+        "_id": {
+            "$oid": "6318f157803f5a1db58f3493"
+        },
+        "titulo": "Clean Code",
+        "autor": "Robert C. Martin",
+        "ano": 2008,
+        "preco": 31.0
+    },
+    {
+        "_id": {
+            "$oid": "6318f157803f5a1db58f3494"
+        },
+        "titulo": "Harry Potter and the Philosopher's Stone",
+        "autor": "J.K. Rowling",
+        "ano": 1997,
+        "preco": 31.0
+    },
+    {
+        "_id": {
+            "$oid": "6318f167d33645a8abc49024"
+        },
+        "titulo": "O Essencialismo",
+        "autor": "Greg MeKeown",
+        "ano": 2014,
+        "preco": 45.7
+    },
+    {
+        "_id": {
+            "$oid": "6318f167d33645a8abc49025"
+        },
+        "titulo": "O Poder do H\u00e1bito",
+        "autor": "Charles Duhigg",
+        "ano": 2012,
+        "preco": 34.9
+    },
+    {
+        "_id": {
+            "$oid": "6318f167d33645a8abc49026"
+        },
+        "titulo": "As coisas que voc\u00ea s\u00f3 v\u00ea quando desacelera",
+        "autor": "Haemin Sunim",
+        "ano": 2017,
+        "preco": 49.9
+    }
+]
